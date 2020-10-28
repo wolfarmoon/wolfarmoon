@@ -11,4 +11,4 @@
 + Web-Based Projects 🛸📄
 
 
-I'm actually doing a discord bot 📈
+I'm actually creating a discord bot 📈
