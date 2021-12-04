@@ -2,8 +2,9 @@
 <br>
 <br>
 <br>
-	<p><em><samp>Hola, soy Draco</samp></em></p>
+	<b><samp>Hola, soy Draco</samp></b>
 <br>
-	<p line-height:150%;>Gamer, pixel-artist y desarrollador de Videojuegos Independiente (Actualmente Trabajando en uno!).<br></p>
+	<p line-height:150%; align="center"><samp>Builder de Minecraft profesional, Gamer, pixel-artist y desarrollador de Videojuegos Independiente</samp></p>
+	
 
 </p>
