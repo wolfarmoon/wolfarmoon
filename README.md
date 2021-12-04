@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 <br>
 <br>
 <br>
@@ -6,4 +6,4 @@
 <br>
 	<p line-height:150%;>Gamer, pixel-artist y desarrollador de Videojuegos Independiente (Actualmente Trabajando en uno!).<br></p>
 
-</div>
+</p>
