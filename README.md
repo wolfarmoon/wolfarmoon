@@ -2,8 +2,8 @@
 <br>
 <br>
 <br>
-	<p><b><em><tt>Hola, soy Draco</tt></em></b></p>
+	<p><em><samp>Hola, soy Draco</samp></em></p>
 <br>
-	<p line-height:150%;>Futuro creador de contenido, gamer, pixel-artist y desarrollador de Videojuegos Independiente (Actualmente Trabajando en uno!).<br></p>
+	<p line-height:150%;>Gamer, pixel-artist y desarrollador de Videojuegos Independiente (Actualmente Trabajando en uno!).<br></p>
 
 </div>
