@@ -36,7 +36,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  height="50p" width="50p"/>
 	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50p" width="50p" />
 	 <h6>Iconos de devicon.dev</h6>
-	 <h5>- Más usados hasta ahora -</h5>
+
 	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoYT&theme=tokyonight"/>
 	</div>
 
