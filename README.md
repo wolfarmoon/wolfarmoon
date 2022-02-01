@@ -39,4 +39,4 @@
 	 <h5>- Más usados hasta ahora -</h5>
 	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoYT&theme=tokyonight"/>
 	</div>
-<p line-height:150%; align="center"><b><samp>Contactos</samp></b></p>
+
