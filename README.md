@@ -15,7 +15,7 @@
 <ul align="center">
 	<b>FlareRouting</b> - Red de enrutamiento y tunel de información anonima.  Actualmente en desarrollo!<br>
 	<b>ClientBootstrapper</b> - Un cliente de Minecraft dinamico. Actualmente en desarrollo!<br>
-	<b>SocialToolKIT</b> - Una herramienta para estar al tanto de todas las actualizaciones que hace un usuario en alguna red social. Casi terminada!
+	<b>ConIcon</b> - Un motor grafico para renderizar imagenes como caracteres para la terminal de Windows. Comenzado!
 </ul>
 <br>
 <h3 line-height:150%; align="center"><b><samp>Lenguajes y Herramientas que uso</samp></b></h3>
