@@ -7,7 +7,7 @@
 
 <code>En este año (2022) me voy a cambiar el nombre de Draco por uno más original</code></p>
 <div>
-<p line-height:150%; align="center"><samp>Builder de Minecraft profesional, Gamer, pixel-artist y desarrollador de Videojuegos, mods y de cualquier proyecto que me proponga.</samp><br>
+<p line-height:150%; align="center"><samp>Builder de Minecraft profesional, Gamer, pixel-artist, desarrollador de Videojuegos, mods y de cualquier proyecto que me proponga.</samp><br>
 	
 <br>
 <br>
