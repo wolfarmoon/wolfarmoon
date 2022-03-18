@@ -2,28 +2,39 @@
 <br>
 <br>
 <br>
-	<h2 line-height:1%; align="center"><samp>Hola, soy Draco</samp></h3>
+	<h2 line-height:1%; align="center"><samp>Hi, its Draco!</samp></h3>
 <br>
 
-<code>En este año (2022) me voy a cambiar el nombre de Draco por uno más original</code></p>
+<code>In this year i'll change my username; I will make a redirect.</code></p>
 <div>
-<p line-height:150%; align="center"><samp>Builder de Minecraft profesional, Gamer, pixel-artist, desarrollador de Videojuegos, mods y de cualquier proyecto que me proponga.</samp><br>
+<p line-height:150%; align="center"><samp>I'm a Minecraft modder, map-maker, artist, full-stack web developer and some other things, I'm also starting in game development.</samp><br>
 	
 <br>
 <br>
-<h3 line-height:150%; align="center"><b><samp>Proyectos en los que estoy trabajando</samp></b></h3>
+<h3 line-height:150%; align="center"><b><samp>Projects I'm working on</samp></b></h3>
 <ul align="center">
-	<b>FlareRouting</b> - Red de enrutamiento y tunel de información anonima.  Actualmente en desarrollo!<br>
-	<b>ClientBootstrapper</b> - Un cliente de Minecraft dinamico. Actualmente en desarrollo!<br>
-	<b>ConIcon</b> - Un motor grafico para renderizar imagenes como caracteres para la terminal de Windows. Comenzado!
+	<b>👽🔌 Minecraft Bootstrapper</b> - A set of dynamic components to make hyper-customized minecraft servers· This project is on Development!<br>
+	<b>🎆 ConIcon</b> - A extencible font for terminal applications. Started!
 </ul>
 <br>
-<h3 line-height:150%; align="center"><b><samp>Lenguajes y Herramientas que uso</samp></b></h3>
+<h3 line-height:150%; align="center"><b><samp>Languages 🙲 Tools</samp></b></h3>
 	<table style="undefined;table-layout: fixed; width: 46px">
 <colgroup>
 <col style="width: 46px">
 </colgroup>
 <tbody  align="center">
+	
+   <tr>
+   <td>
+		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  height="50p" width="50p"/>
+	   	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="50p" width="50p"/>
+		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  height="50p" width="50p"/>
+		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50p" width="50p"/>
+		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  height="50p" width="50p"/>
+		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  height="50p" width="50p"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  height="50p" width="50p"/>
+   </td>
+  </tr>
   <tr>
     <th>
 	 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50p" width="50p"/>
@@ -36,17 +47,6 @@
   </tr>
   <tr>
     <td>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  height="50p" width="50p"/>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  height="50p" width="50p"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
 		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height="50p" width="50p"/>
         	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="50p" width="50p"/>
 	 	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50p" width="50p" />
@@ -55,5 +55,5 @@
   </tr>
 </tbody>
 </table>
-<h6>Iconos de <a href="https://devicon.dev">devicon.dev</a></h6>
+<h6>Icons from <a href="https://devicon.dev">devicon.dev</a></h6>
 </div>
