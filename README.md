@@ -7,7 +7,7 @@
 
 
 <div>
-<p line-height:150%; align="center"><samp>I'm a Minecraft modder, map-maker, artist, full-stack web developer and some other things, I'm also starting in game development.</samp><br>
+<p line-height:150%; align="center"><samp>I'm a Minecraft modder, map-maker, artist and independent development.</samp><br>
 	
 <br>
 <br>
