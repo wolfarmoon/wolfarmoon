@@ -2,10 +2,10 @@
 <br>
 <br>
 <br>
-	<h2 line-height:1%; align="center"><samp>Hi, its Draco!</samp></h3>
+	<h2 line-height:1%; align="center"><samp>Hi, its Wolfarmoon!</samp></h3>
 <br>
 
-<code>In this year i'll change my username; I will make a redirect.</code></p>
+
 <div>
 <p line-height:150%; align="center"><samp>I'm a Minecraft modder, map-maker, artist, full-stack web developer and some other things, I'm also starting in game development.</samp><br>
 	
