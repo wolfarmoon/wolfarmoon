@@ -7,15 +7,11 @@
 
 
 <div>
-<p line-height:150%; align="center"><samp>I'm a Minecraft modder, map-maker, artist and independent development.</samp><br>
+<p line-height:150%; align="center"><samp>Map-maker, artist and independent development.</samp><br>
 	
 <br>
 <br>
-<h3 line-height:150%; align="center"><b><samp>Projects I'm working on</samp></b></h3>
-<ul align="center">
-	<b>👽🔌 Minecraft Bootstrapper</b> - A set of dynamic components to make hyper-customized minecraft servers· This project is on Development!<br>
-	<b>🎆 ConIcon</b> - A extencible font for terminal applications. Started!
-</ul>
+
 <br>
 <h3 line-height:150%; align="center"><b><samp>Languages 🙲 Tools</samp></b></h3>
 	<table style="undefined;table-layout: fixed; width: 46px">
@@ -26,12 +22,9 @@
 	
    <tr>
    <td>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  height="50p" width="50p"/>
 	   	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height="50p" width="50p"/>
 		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50p" width="50p"/>
 		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  height="50p" width="50p"/>
-		 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  height="50p" width="50p"/>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  height="50p" width="50p"/>
    </td>
   </tr>
