@@ -7,7 +7,7 @@
 
 
 <div>
-<p line-height:150%; align="center"><samp>Minecraft datapack creator, map-maker, artist and independent development. Learning Java</samp><br>
+<p line-height:150%; align="center"><samp>Minecraft datapack creator, map-maker, artist and independent game developmenr. Currently learning Java</samp><br>
 	
 <br>
 <br>
