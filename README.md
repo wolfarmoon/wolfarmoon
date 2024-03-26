@@ -1,6 +1,6 @@
 # Hey!
 
-I'm [wolfarmoon](https://wolfarmoon.dev). 
+I'm [wolfarmoon](https://wolfarmoon.dev). Currently learning game development stuff and C++ that means seg fault and that.
 
 ![](https://komarev.com/ghpvc/?username=wolfarmoon&style=flat-square)
 
